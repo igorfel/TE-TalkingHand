@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/Letras">
+        <file>sounds/Letras.txt</file>
+        <file>sounds/Letras/1.mp3</file>
+        <file>sounds/Letras/2.mp3</file>
+        <file>sounds/Letras/3.mp3</file>
+        <file>sounds/Letras/4.mp3</file>
+        <file>sounds/Letras/5.mp3</file>
+        <file>sounds/Letras/6.mp3</file>
+        <file>sounds/Letras/7.mp3</file>
+        <file>sounds/Letras/8.mp3</file>
+        <file>sounds/Letras/9.mp3</file>
+        <file>sounds/Letras/10.mp3</file>
+        <file>sounds/Letras/11.mp3</file>
+        <file>sounds/Letras/12.mp3</file>
+        <file>sounds/Letras/13.mp3</file>
+        <file>sounds/Letras/14.mp3</file>
+        <file>sounds/Letras/15.mp3</file>
+        <file>sounds/Letras/16.mp3</file>
+        <file>sounds/Letras/17.mp3</file>
+        <file>sounds/Letras/18.mp3</file>
+        <file>sounds/Letras/19.mp3</file>
+        <file>sounds/Letras/20.mp3</file>
+        <file>sounds/Letras/21.mp3</file>
+        <file>sounds/Letras/22.mp3</file>
+        <file>sounds/Letras/23.mp3</file>
+        <file>sounds/Letras/24.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>wolf.jpg</file>
+    </qresource>
+    <qresource prefix="/Effects">
+        <file>sounds/Effects/25.mp3</file>
+    </qresource>
+</RCC>
