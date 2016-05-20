@@ -26,9 +26,7 @@
         <file>sounds/Letras/23.mp3</file>
         <file>sounds/Letras/24.mp3</file>
     </qresource>
-    <qresource prefix="/Images">
-        <file>wolf.jpg</file>
-    </qresource>
+    <qresource prefix="/Images"/>
     <qresource prefix="/Effects">
         <file>sounds/Effects/25.mp3</file>
     </qresource>
